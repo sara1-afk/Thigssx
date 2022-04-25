@@ -1,10 +1,6 @@
-- 👋 Oi, Eu sou @Thigssx
+- 👋 Oi, Eu sou sara1-afk
 - 🙂 Estou interessado em programação
-- 🌱 Estou aprendendo linguagens de programação
-- 💞️ Estou procurando colaborar 
+- 🌱 Estou aprendendo pensamento computacional 
+- 💞️ Estou procurando aprender
 - 🥰
 
-<!---
-Thigssx/Thigssx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
